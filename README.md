@@ -57,13 +57,17 @@ Complete the following tutorials:
 - [Writing an action server and client (Python)](https://docs.ros.org/en/humble/Tutorials/Intermediate/Writing-an-Action-Server-Client/Py.html)
   - Include a screenshot of a terminal showing output from running the action client
 
+## Peer Interview
+
+Class members will engage in peer interview process, where they will pair up and involve each other in a discussion of specific topics covered in the tutorials. The topics for selection are listed in the [Peer Interview Assessment Google Form]() that each person must complete and submit. Student who does not submit a peer interview assessment form, will lose all of the points for this part of the assignment. The members will rank the discussion based on the criteria identified in the [Peer Interview Assessment]()
+
 ## Assessment
 
 The grade that a student receives on this assignment will have the following components.
 
 - **GitHub Actions CI Build Status [up to 5%]:**: For project3 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes.
 
-- **Mastery of Verbal Explanation during the Peer Review [up to 15%]:**: Since the ability to communicate technical concepts is crucial to building successful software and hardware applications, a portion of students' lab grade will be determined based on the quality of the discussions during peer interviews.
+- **Mastery of Verbal Explanation during the Peer Review [up to 15%]:**: Since the ability to communicate technical concepts is crucial to building successful software and hardware applications, a portion of students' lab grade will be determined based on the quality of the discussions during peer interviews. Student who does not submit a peer interview assessment form, will lose all of the points for this part of the assignment.
 
 - **Mastery of Technical Writing [up to 25%]:**: Students will also receive a part of their grade when the responses to the writing prompts presented in the `report.md` reveal a proficiency of both writing skills and technical knowledge. To receive full points of this component, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing complete and conceptually and technically accurate answers.
 
@@ -71,7 +75,7 @@ The grade that a student receives on this assignment will have the following com
 
 - **Mastery of Technical Knowledge and Skills [up to 55%]**: Students will receive a portion of their assignment grade when their project design and implementation reveals that they have mastered all of the technical knowledge and concepts developed during the completion of this project. Successful completion of each  tutorial must be demonstrated by including appropriate screenshots.
 
-- **Continuous Progress [up to 40% deducted points]**: To ensure continuous effort and timely troubleshooting, students may lose up to 40% of points from their final deliverable for not demonstrating continuous effort on this project. There is a requirement of a 10 commit minimum, with at least 1 commit made during each of the lab sessions. Each activity not submitted by the stated deadline in the [Timeline](#timeline) section  will result in -10% unless you can demonstrate circumstances beyond your control (e.g., illness).
+- **Continuous Progress [up to 40% deducted points]**: To ensure continuous effort and timely troubleshooting, students may lose up to 40% of points from their final deliverable for not demonstrating continuous effort on this project. There is a requirement of a 13 commit minimum, with at least 1 commit made during each of the lab sessions. Each activity not submitted by the stated deadline in the [Timeline](#timeline) section  will result in -10% unless you can demonstrate circumstances beyond your control (e.g., illness).
 
 All grades for this project will be reported through a student's gradebook GitHub repository.
 
@@ -94,4 +98,4 @@ Finally, you can run `gatorgrade`:
 
 ## Assistance
 
-If you are having trouble completing any part of this project, then please talk with the course instructor during the laboratory session. Alternatively, you may ask questions in the Discord channel for this course. Finally, you can schedule a meeting during the course instructor's office hours.
+If you are having trouble completing any part of this project, then please talk with the course instructor or TLs during the laboratory sessions. Alternatively, you may ask questions in the Discord channel for this course. Finally, you can schedule a meeting during the course instructor's office hours.
