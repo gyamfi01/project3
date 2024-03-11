@@ -12,7 +12,7 @@ TODO: Include a screenshot of a terminal showing subscriber and publisher nodes 
 
 TODO: Include a screenshot showing "MyTurtleSim" (overlay) and 2-3 sentence reflection
 
-### [Creating a package](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html) (Python) 
+### [Creating a package](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html) (Python)
 
 TODO: Include a screenshot of a terminal showing your package running (output from step 4) and 2-3 sentence reflection
 
@@ -49,7 +49,7 @@ TODO: Include a screenshot of a terminal showing `rosdep` installation and 2-3 s
 TODO: Include a screenshot of a terminal showing output from step 2 and 2-3 sentence reflection
 
 ### [Writing an action server and client (Python)](https://docs.ros.org/en/humble/Tutorials/Intermediate/Writing-an-Action-Server-Client/Py.html)
- 
+
 TODO: Include a screenshot of a terminal showing output from running the action client and 2-3 sentence reflection
 
 ## Challenges and Learning Experiences
