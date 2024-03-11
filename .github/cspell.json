@@ -17,12 +17,13 @@
         "gatorgrader",
         "gatorgrade",
         "virtualenv",
-        "Noor",
-        "Buchi",
+        "rosdep",
+        "srvcli",
         "JJ",
         "sheetshuttle",
         "pluginbase",
-        "teleop"
+        "teleop",
+        "colcon"
     ],
     "ignorePaths": [
         ".github/**"
