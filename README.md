@@ -61,6 +61,35 @@ Complete the following tutorials:
 
 Class members will engage in peer interview process, where they will pair up and involve each other in a discussion of specific topics covered in the tutorials. The topics for selection are listed in the [Peer Interview Assessment Google Form]() that each person must complete and submit. Student who does not submit a peer interview assessment form, will lose all of the points for this part of the assignment. The members will rank the discussion based on the criteria identified in the [Peer Interview Assessment]()
 
+## Resources
+
+### ROS2 Humble
+
+ROS2 Humble has been installed on the following machines in ALIC:
+
+#5, 
+#6, 
+#10, 
+#11, 
+#12, 
+#13, 
+#14, 
+#18, 
+#19, 
+#20,  
+#21, 
+#22, 
+#24
+
+Assuming you are working on Windows, open PowerShell and run the following command:
+`Get-ExecutionPolicy`. If it says "Restricted", run the following command: `Set-ExecutionPolicy Unrestricted` and Enter `A`. 
+
+Now run `Unblock-File C:\dev\ros2_humble\local_setup.ps1` and then run the "source" command, which is `C:\dev\ros2_humble\local_setup.ps1` on Windows, in PowerShell.
+
+After starting each terminal window, you must run `source` command:
+
+`C:\dev\ros2_humble\local_setup.ps1`
+
 ## Assessment
 
 The grade that a student receives on this assignment will have the following components.
