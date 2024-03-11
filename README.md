@@ -5,7 +5,7 @@
 Activity                   | Deadline
 -------------------------- | ------------------------------
 Regular Commits:  | March 12th-26th, 2024 (total: 10 commit requirement, at least 1 on March 12th and 1 on March 19th)
-Peer Interview (Google Form) | March 19th, 2024 during the lab
+Peer Interview (Google Form) | March 19th, 2024 during class
 Final Submission: | March 26th, 2024 by 2:30pm
 
 ## Class Community Guidelines
@@ -104,7 +104,7 @@ The grade that a student receives on this assignment will have the following com
 
 - **Mastery of Technical Knowledge and Skills [up to 55%]**: Students will receive a portion of their assignment grade when their project design and implementation reveals that they have mastered all of the technical knowledge and concepts developed during the completion of this project. Successful completion of each  tutorial must be demonstrated by including appropriate screenshots.
 
-- **Continuous Progress [up to 40% deducted points]**: To ensure continuous effort and timely troubleshooting, students may lose up to 40% of points from their final deliverable for not demonstrating continuous effort on this project. There is a requirement of a 13 commit minimum, with at least 1 commit made during each of the lab sessions. Each activity not submitted by the stated deadline in the [Timeline](#timeline) section  will result in -10% unless you can demonstrate circumstances beyond your control (e.g., illness).
+- **Continuous Progress [up to 40% deducted points]**: To ensure continuous effort and timely troubleshooting, students may lose up to 40% of points from their final deliverable for not demonstrating continuous effort on this project. There is a requirement of a 13 commit minimum, with at least 1 commit made on March 12th (lab) and March 19th (class). Each activity not submitted by the stated deadline in the [Timeline](#timeline) section  will result in -10% unless you can demonstrate circumstances beyond your control (e.g., illness).
 
 All grades for this project will be reported through a student's gradebook GitHub repository.
 
