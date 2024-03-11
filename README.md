@@ -59,7 +59,7 @@ Complete the following tutorials:
 
 ## Peer Interview
 
-Class members will engage in peer interview process, where they will pair up and involve each other in a discussion of specific topics covered in the tutorials. The topics for selection are listed in the [Peer Interview Assessment Google Form]() that each person must complete and submit. Student who does not submit a peer interview assessment form, will lose all of the points for this part of the assignment. The members will rank the discussion based on the criteria identified in the [Peer Interview Assessment]()
+Class members will engage in peer interview process, where they will pair up and involve each other in a discussion of specific topics covered in the tutorials. The topics for selection are listed in the [Peer Interview Assessment Google Form](https://forms.gle/wGaoaEfZxdKH6XNB9) that each person must complete and submit. Student who does not submit a peer interview assessment form, will lose all of the points for this part of the assignment. The members will rank the discussion based on the criteria identified in the [Peer Interview Assessment](https://forms.gle/wGaoaEfZxdKH6XNB9).
 
 ## Resources
 
