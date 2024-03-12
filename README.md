@@ -1,4 +1,4 @@
-# Project 03: Robot Mapping
+# Project 03: ROS 2
 
 ## Timeline
 
