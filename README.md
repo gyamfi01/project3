@@ -4,7 +4,7 @@
 
 Activity                   | Deadline
 -------------------------- | ------------------------------
-Regular Commits:  | March 12th-26th, 2024 (total: 10 commit requirement, at least 1 on March 12th and 1 on March 19th)
+Regular Commits:  | March 12th-26th, 2024 (total: 13 commit requirement, at least 1 on March 12th and 1 on March 19th)
 Peer Interview (Google Form) | March 19th, 2024 during class
 Final Submission: | March 26th, 2024 by 2:30pm
 
